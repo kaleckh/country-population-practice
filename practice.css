@@ -22,8 +22,8 @@
 }
 
 .wrapper {
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    grid-template-columns: 10% 50% 10%;
     gap: 10px;
 }
 
