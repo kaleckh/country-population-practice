@@ -26,29 +26,3 @@
     grid-template-columns: 10% 50% 10%;
     gap: 10px;
 }
-
-.china {
-    background-color: green;
-    width: 50%;
-}
-
-.mexico {
-    background-color: red;
-    width: 10%;
-}
-
-.india {
-    background-color: royalblue;
-}
-
-.usa {
-    background-color: yellow;
-}
-
-.uruguay {
-    background-color: turquoise;
-}
-
-.brazil {
-    background-color: teal;
-}
