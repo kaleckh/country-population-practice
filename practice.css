@@ -1,0 +1,54 @@
+.direction {
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+}
+
+.country {
+    flex-basis: 10%;
+}
+
+.bar {
+    flex-basis: 50%;
+}
+
+.colored-bar {
+    height: 25px;
+}
+
+.population {
+    flex-basis: 10%;
+    padding-left: 12px;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.china {
+    background-color: green;
+    width: 50%;
+}
+
+.mexico {
+    background-color: red;
+    width: 10%;
+}
+
+.india {
+    background-color: royalblue;
+}
+
+.usa {
+    background-color: yellow;
+}
+
+.uruguay {
+    background-color: turquoise;
+}
+
+.brazil {
+    background-color: teal;
+}
