@@ -1,14 +1,9 @@
-<!DOCTYPE html>
+import React from "react"
+import "./Test.css"
 
-<html>
-
-<head>
-
-    <link rel="stylesheet" href="practice.css">
-</head>
-
-<body>
-    <div class="wrapper">
+function Test(){
+    return(
+        <div class="wrapper">
 
         <div class="country">china</div>
         <div class="bar">
@@ -60,9 +55,7 @@
         <div class="population">1231234</div>
 
     </div>
+    )
+}
 
-
-    <script src="" async defer></script>
-</body>
-
-</html>
+export default Test
